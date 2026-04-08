@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Environment
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# Test coverage
+coverage/
